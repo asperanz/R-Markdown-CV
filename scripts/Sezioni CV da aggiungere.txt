@@ -1,0 +1,143 @@
+1. SQL Server DB
+2. SSMS 2017 (17.9.1)
+4. Visual Studio 2019 (Microsoft SQL Server Data Tools)
+6. Microsoft SQL Server Integration Services Designer Version 15.0.1100.123
+   RStudio
+
+
+
+**** THINGS LEARNT AT INTERAMERICAN ****
+
+1. Agile & Scrum Methodology
+2. OLAP - multidimensional models
+	3. Data integration
+	4. DWH
+	5. Data Quality
+	7. Git Repository
+	8. SQL Performance Tuning & 
+	9. ETL Design/Testing & troubleshhoting 
+
+
+Business requirements analysis with business analysts and final users
+SQL programming, query optimization & performance tuning
+ETL Design & Data integration (testing & troubleshooting)
+Data Quality with R (Tidyverse package)
+Markdown-formatted technical documentation
+File Management with Git
+
+Skills used:
+Oracle Database 12c, Oracle Data Integrator, Oracle PaaS, PL/SQL, SQL Developer, R programming language, Rstudio, R Markdown, Slack, FileZilla, Git
+ 
+Skills used: 
+MS SQL Server 2017, T-SQL, SQL Server Management Studio (SSMS), SQL Server Integration Services (SSIS),
+MS Visual Studio Professional 2019, Data Warehouse Methodology (Kimball), R, Rstudio, R Markdown, Git, Atlassian Jira, Agile & Scrum Methodology
+
+
+Skills section
+
+* existing
+
+DATA ANALYTICS
+•	R stack - RStudio | Data Wrangling (the Tidyverse package) | Exploratory Data Analysis | Data Visualization (ggplot2, ggmap, leaflet) | Text Mining | R Markdown
+•	Tableau (Desktop, Online) | Single reports & Dashboards
+•	Alteryx Designer
+•	Microsoft Excel
+•	Social Media Analysis (Twitter)
+
+
+Databases & Storage 
+•	SQL, T-SQL, PL/SQL
+•	Git & GitHub version-control systems
+•	AWS Amazon Redshift, S3
+•	Oracle Database 11g-12c
+•	Microsoft SQL Server 2017, Server Management Studio (SSMS), SQL Server Integration Services (SSIS), MS Visual Studio Professional 2019
+•	PostgreSQL
+•	Data Warehouse Methodology (Kimball)
+
+Project Management & Task Tracking
+•	Atlassian Jira, ClickUp
+•	Agile & Scrum Methodology
+
+
+* new
+
+Programming Languages
+DATABASES
+STORAGE & Version Control
+Text Editors
+
+Bryan Jenks CV (Awesome)
+Programming Languages
+	BASH, CCL, DAX, JAVASCRiPT, PYTHON, R, T‑SQL, PL‑SQL, VBA
+Markup Languages
+	CSS, HTML, LATEX, MARKDOWN, RMARKDOWN, SASS, GROFF/TROFF
+Data Interchange Formats
+	CSV, JSON, XML, FEATHER
+Version Control
+	GIT
+Text Editors
+	DiSCERN ViSUAL DEVELOPER, RSTUDiO, SQL SERVER MANAGEMENT STUDiO, VIM, ViSUAL STUDiO, ViSUAL STUDiO CODE
+Microsof Oﬀice
+	EXCEL, OUTLOOK, ONENOTE, POWERBI, POWERPOiNT, ViSiO, WORD
+
+Chris Umphlett CV (Awesome)
+DATA SCIENCE
+• Forecasting, machine learning, big datawrangling, process automation, Discrete Event Simulation,regression
+analysis, data quality enhancement, data visualization, classification, text mining
+APPLICATIONS
+• Primarily RStudio and SQL Server. Also experienced in Excel, Tableau, Power BI and SAS EG.
+LANGUAGES
+• R, SAS (Base 9 Certified), SQL, VBA
+LEADERSHIP
+• Former non-profit board member and president, mentorship of peers, explaining technical material to nontechnical audience and management, oversight of interns, change management
+
+JooYoung Seo CV (Awesome) - LOng & short
+Data Science: R (highly advanced: published 3 packages in CRAN), Python (advanced: tensorflow/keras/scikit‑learn), SQL
+Reproducible Report: Markdown/Rmarkdown, R shiny apps, Jupyter Notebook, LaTeX, Pandoc, lua
+DevOps: Git, Docker, AWS, Travis CI, Cygwin
+Front‑End: HTML/CSS/JS/PHP/ARIA (advanced level to design according to WCAG 2.0/2.1), WordPress, Drupal, Hugo
+Back‑End: Unix/Linux Shell scripts, LAMP, Django, REST API
+Compile Programming Languages: C/C++/C#, Java, Quorum
+Quantitative Research: t‑test, within‑/between‑subjects/Repeated Measures ANOVAs/ANCOVAs/MANOVAs/MANCOVAs, Regressions,HLM, Factor Analysis, Network Analysis, SEM, PCA, Unsupervised/Supervised Machine Learning
+Qualitative Research: Virtual Ethnography, Content Analysis, Grounded Theory, Phenomenology, Case Studies, Interaction Analysis
+Mixed Research: Text Mining, Quantitative Ethnography, Explanatory/Exploratory Sequential Mixed Methods
+Languages: English/Korean (bilingual)
+
+Lorena Abad CV (Awesome)
+TECHNiCAL SKiLLS
+Coding Languages
+	R – SQL – PYTHON – JAVASCRiPT
+Sofware
+	QGIS – ARCGIS – SAGA – ECOGNiTiON – POSTGRESQL – POSTGIS – RSTUDiO – EARTH ENGiNE – GIMP – MENDELEY
+Other
+	GiT – MARKDOWN – LATEX – OPENSTREETMAP
+
+Nathaniel Price CV (latex)
+Data Science Skills
+Communication: presentations (technical and non-technical), dashboard design, data analysis reports, scientific publications, data visualization
+Programming Languages: R, Python, SQL, Matlab, C++
+Software Development: version control, automated testing, continuous integration
+Numerical Methods: optimization (stochastic, genetic, multi-start), numerical solution of differential equations
+Statistics: machine learning, data analysis, generalized linear regression, cluster analysis, factor analysis, principal components analysis (PCA), cross validation, generalized additive models, data analytics, Monte Carlo simulation
+
+Sam Abbott CV (Awesome)
+Analytical
+	DYNAMIC MODELLING, STATISTICAL MODELLING, DATA SCIENCE, REPRODUCIBLE RESEARCH
+Programming
+	R (ADVANCED), C/C++, BASH, SQL, STAN, JAGS, LIBBI, PYTHON, MATLAB
+Packages
+	SHINY, TIDYVERSE, DATA.TABLE, RCPP, POMP, H2O, BRMS
+Tools
+	GIT, DOCKER, TRAVIS, AWS
+
+
+
+LANGUAGES
+•	English (Professional Working)
+•	Italian (Native)
+•	Greek (Intermediate)
+
+EDUCATION
+•	Degree in Civil Engineering (108/110)
+University of Pavia (Italy) 1998
+•	PET Cambridge University (U.K.)

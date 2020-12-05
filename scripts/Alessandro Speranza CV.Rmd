@@ -1,0 +1,72 @@
+---
+name: Alessandro
+surname: Speranza
+position: "Data Analyst"
+address: "56-58 Danais St., 15235 Athens (GR)"
+phone: +30.6973.440452
+www: rdocks.netlify.app
+email: "asperanz109@outlook.com"
+twitter: asperanz70
+github: asperanz
+linkedin: alessandrosperanza
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: 414141
+aboutme: "A motivated self-starter and team player with excellent organizational attitudes, highly efficient with strong technical and analytical skills. Experience in cleaning, managing, manipulating, and analyzing datasets using SQL & R (tidyverse ecosystem) and data visualization with R & Tableau. Pro-active and result-oriented with excellent troubleshooting skills."
+docname: "Alessandro Speranza CV"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+library(here)
+
+here::here()
+
+source(file = here("./scripts/sections","sections data.r"))
+```
+
+# Skills
+
+```{r SKILLS}
+skills %>%
+  detailed_entries(
+    what = area,
+    why = skills
+  )
+```
+
+# Work Experience
+
+```{r WORK ESPERIENCE}
+work_experience %>%
+  detailed_entries(
+    with = title,
+    what = company,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} - {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+# Languages
+
+**English** (Professional Working), 
+**Italian** (Native), 
+**Greek** (Upper Intermediate)
+
+# Education
+
+```{r EDUCATION}
+education %>%
+  detailed_entries(
+    with = degree,
+    what = university,
+    when = glue::glue("{startYear}",.na = ""),
+    where = where
+  )
+```
+
+
+
